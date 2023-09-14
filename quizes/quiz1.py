@@ -32,5 +32,5 @@ numberOfApples < numberOfOranges
 # scenario and how would you write a variable to represent this value?
 
 # 9. In your own words, describe what a program is?
-
+jfjghfjgfjgf
 # 10. Describe the difference between a float and an integer. 
