@@ -11,7 +11,6 @@ numberOfOranges = 12
 
 numberOfApples < numberOfOranges
 
-
 # 5. You have been given a $100.00 dollar gift card from a family member. Another 
 # family member adds 50.00 dollars to your gift card and a friend gives you $35.50. 
 # Your task is to create variables for each gift amount and a final variable that
