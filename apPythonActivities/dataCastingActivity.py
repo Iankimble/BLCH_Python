@@ -17,3 +17,4 @@ name_of_pet = "Spuny"
 age_of_pet = 10
 
 print("this is my dog "+ name_of_pet + ". He is " + age_of_pet+ " years old.")
+ 
