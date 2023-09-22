@@ -7,7 +7,7 @@ def welcome_msg():
 # This time around you dont need to write the instructions
 #  or the def key word because it's already be written.
 
-welcome_msg()
+#welcome_msg()
 
 
 # Parameters are the placeholders for our data
@@ -18,7 +18,7 @@ def custom_welcome_msg(name):
 # when we call, or execute our function we can pass an 
 # argument into our function this is the actual data that
 # our function will work on    
-custom_welcome_msg('Ian')
+#custom_welcome_msg('Ian')
 
 # we can use all the data types as well as varialbes
 # in functions
@@ -26,7 +26,7 @@ custom_welcome_msg('Ian')
 def calculator(numberA, numberB):
     print(numberA+numberB)
 
-calculator(10,10)
+#calculator(10,10)
 
 
 # 1. In your own words, describe what a function is
@@ -47,3 +47,18 @@ calculator(10,10)
 
 
 
+# function for welcoming students
+#def welcomeToClass():
+ #   print('welcome to class')
+#print('-----------------------------')
+
+# greeting message for users on program
+# def greeting_msg(visitor):
+#    print('hello '+ visitor + ' welcome to Python class.')
+
+# greeting_msg('Ian Kimble')
+
+def calculate(numberA,numberB):
+    print(numberA + numberB)
+
+calculate(10,10)
