@@ -1,7 +1,7 @@
 
 # 1. In your own words, describe what a function is
 
-# 2. What is are function parameters and arguments and describe
+# 2. What are function parameters and arguments and describe
 # the difference between the 2. 
 
 # 3. write a function that will print out a welcome message
