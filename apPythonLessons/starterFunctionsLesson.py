@@ -10,9 +10,20 @@ def welcome_msg():
 welcome_msg()
 
 
-# 
+# Parameters are the placeholders for our data
+# in functions.
 def custom_welcome_msg(name):
     print("Good Morning " + name +". Welcome to Python class.")
-    
+
+# when we call, or execute our function we can pass an 
+# argument into our function this is the actual data that
+# our function will work on    
 custom_welcome_msg('Ian')
 
+# we can use all the data types as well as varialbes
+# in functions
+
+def calculator(numberA, numberB):
+    print(numberA+numberB)
+
+calculator(10,10)
