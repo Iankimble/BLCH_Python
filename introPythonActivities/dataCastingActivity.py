@@ -30,3 +30,16 @@ name_of_pet = "Spuny"
 age_of_pet = str(10) # '10'
 
 print("this is my dog, " + name_of_pet + " .He is " + age_of_pet + " years old.")
+
+
+
+print('_______________________________')
+
+
+# def= defining the function. 
+def welcome_Msg(userName): 
+    print('welcome, ' + str(userName) + ' to class.')
+    
+# call = write the function again
+welcome_Msg(1000)
+
