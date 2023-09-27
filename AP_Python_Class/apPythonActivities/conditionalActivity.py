@@ -4,6 +4,8 @@
 # 2. In your own words, describe what 
 # a conditional statement (if/else) is 
 
+# 3. write a simple conditional state using a comparision operator(greater than, less than, etc. )
+
 # 3. Write a conditional statement for food in the refridgerator.
 # your conditional statement should be wrapped in a function that takes one (1)
 # parameter. The data type for this parameter should be true or false. 
