@@ -16,7 +16,7 @@
 # a boolean. 
 
 # 5. Create a function that checks the inventory of cereal for a store. 
-# your function should parameter should accept an integer. In your function
+# your function should have a parameter that accepts an integer. In your function
 # use a conditional statement to determine if you need to order more cereal.
 # If there is more than 10 boxes, print "inventory full", else if there are less than 
 # 10 boxes print "we need to order more cereal".
