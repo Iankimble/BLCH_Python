@@ -6,7 +6,8 @@
 
 # 3. Write a conditional statement for food in the refridgerator.
 # your conditional statement should be wrapped in a function that takes one (1)
-# parameter. The data type for this parameter should be true or false.  
+# parameter. The data type for this parameter should be true or false. 
+# your function should have a line of code that asks the user if there is food in the refridgerator.
 # If there is food in the refridgerator, print time to cook. If there is 
 # NOT food in the fridge, print time to shop. 
 # When you call your function there should be an argument that accepts 
