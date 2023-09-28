@@ -1,8 +1,8 @@
 # create a function that will be used for a user's profile. This function
 # should accept 3 arguments; a picture, name, location. when the code is ran,
-# it should print out these values.
+# it should print out these values. 
 
-# we know we need to use picture, name, location.
+# we know we need to use picture, name, location
 # we know we need to print it out at some point.  
 
 def profileData():
