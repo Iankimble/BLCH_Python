@@ -2,6 +2,7 @@
 # the questions. 
 
 # Answers must be submitted by the end of class to recieve a grade. 
+# when you submit your work, make sure your submit message is relevant and MAKES SENSE!
 
 # REMEMBER TO USE WRITE CLEAN AND READABLE CODE!
 
