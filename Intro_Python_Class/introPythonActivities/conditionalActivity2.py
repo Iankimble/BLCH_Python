@@ -9,6 +9,33 @@
 # your function should also alow the user to put in the time. The time should be 
 # formatted as a float. 
 
+def check_class_status(class_time, section_type):
+    if(section_type== 'AP' and class_time> 11.30) or (section_type=='Intro' and class_time > 1.00):
+        return print('class is over. time to go')
+    else:
+        return print('class is in session')
+    class_time= float(input('enter time'))
+    section_type= input('enter class')
+
+# check_class_status(2.00, 'Intro')
+
+def class_Time_status():
+    period_ends= 11.30
+    time_of_class= float(input('what time is it?'))
+    if time_of_class > period_ends:
+        print('class is over time to go.')
+    else:
+        print('class is still in session.')
+
+class_Time_status()
+
+# keywords: float, function, argument,
+# clues: we know we need to write a message about class times
+# we know we need to write our times as floats 
+
+
+ 
+
 # 2. Write a function that uses a conditional statement. 
 # your function should determine what type a pet a user has depeding on the data provided by the user
 # passed into the functions argument. 
