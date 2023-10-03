@@ -34,6 +34,7 @@ random_numbers = [10,100,12123, 1394, 1]
 
 number_list= [1,2,3,4,5,6,7,8,9,10]
 
+
 # 4. You have been hired by amazon to be an engineer. Your first assignment is to fix their
 # shopping cart function. Your goal is to create a line of code that will
 # allow users to enter the item they want as a string value, and add it to the items that
