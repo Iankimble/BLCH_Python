@@ -16,10 +16,10 @@
 a= 200
 b= 2
 
-if b > a:
-    print('B is greater than A')
-else:
-    print('B is not greater than A')
+#if b > a:
+  #  print('B is greater than A')
+#else:
+   # print('B is not greater than A')
 
 #name = input('Enter your name')
 
@@ -62,4 +62,21 @@ def check_cereal_inventory(quantity):
         print('order more cereal.')
 
 print('___________________________')
-check_cereal_inventory(8)
+#check_cereal_inventory(8)
+
+
+# 2 parts to a function:
+# - function definition - instructions that we want to run when ready.
+# function definitions have parametrs, which are placeholders for data
+
+# - function call - executing those instructions when called.
+# function calls have arguments, that are the actual data we want to work with
+
+
+def school_id():
+    name=input()
+    grade=input()
+    current_class=input()
+    print(name, grade, current_class)
+
+school_id()

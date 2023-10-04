@@ -1,3 +1,4 @@
+
 # read and review the following pages on Python lists. Use these to help you solve
 # the questions. 
 
@@ -96,40 +97,61 @@ self_checkout_scanner=[apples, tvDinner, water]
 # you will also need to write code that will add all the prices of the items
 # including the price of the new item.
 
-# keywords:
+# keywords: 
+# we know we need to use a function
+# list
 
-#clues: 
-# we need to use append() to to add the item to the list
-# we need a function
-# we need to use strings
-#  we need an item with a price 
-# we need a user input for name and price of item 
-# we need to add all the item pricces together, including the new item from the user
-
+# clues: 
+# there are differents item
+# have a piece of code that will add up all the item prices including the price of a new item.
+# we need to ask if they want to add item. We can use input() function.
 # starter code
-list__of_items=['apple', 'organe','book']
+list__of_items=['apple', 'orange','book']
 
 apple_price= 1.00
-orange_price=3.00
-book_price=10.00
+orange_price= 3.00
+book_price= 10.00
 
-def cart_items():
-    newItem_name= input('enter name of new item ')
-    newItem_price=float(input('pleas enter price of item '))
-    list__of_items.append(newItem_name)
-    total_price= apple_price + orange_price + book_price + newItem_price
-
-    print('here are all of your items: ')
+def uber_Eat_checkout():
+    new_item_name= input('what else would you like to add to the food cart? ')
+    new_item_price= float(input('what is the price of the new item? '))
+    list__of_items.append(new_item_name)
+    print("your new shopping cart:")
     print(list__of_items)
-    print("total price below: ")
-    print(total_price)
-
-# cart_items()
+    print("your final total")
+    print(apple_price + orange_price + book_price + new_item_price)
 
 
-ask_user_about_new_item =input('Do you want to add a new item?  Please respond with yes of no ')
+#user_response = input('would you like to add another item? ')
+#if user_response=='yes':
+ #   uber_Eat_checkout()
+#else:
+#    print('proceed to checkout')
 
-if ask_user_about_new_item == 'yes':
-    cart_items()
-elif ask_user_about_new_item== 'no':
-    print('Have a nice day')
+
+
+
+# Create a function that when it is called will delete the mail
+message_from_mom='hey, hope your day is good.'
+message_from_school='open this for your grade'
+message_from_job='congrats youve got the role'
+
+mail= [message_from_mom,message_from_job,message_from_school]
+
+def deleteMail():
+    subtraction_number= int(input('how many emails do you want to delete? '))
+    if subtraction_number > mail:
+        print('you asking to delete more emails than you actually have.')
+    else:
+        confirm_deletion=input('are you sure you want to delete these messages? ')
+        if confirm_deletion =='yes':
+            remaining_mail= mail-subtraction_number
+            print('your remaing mail is listed below.')
+            print(remaining_mail)
+        else:
+            print('we wont delete your emails')
+
+deleteMail()
+
+
+
