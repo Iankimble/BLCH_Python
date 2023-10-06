@@ -14,4 +14,4 @@ list_of_numbers=[100,20,34,45,75,9,60]
 # HINT1: a palendrome is a word that reads the same way backwards as it does forwards
 # HINT 2: you will need to use a loop.
 
-
+ 
