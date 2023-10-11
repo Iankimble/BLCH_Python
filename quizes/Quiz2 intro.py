@@ -85,6 +85,7 @@ random_number_list2.sort()
 
 # 8. A security company has hired you as an engineer to help them develop a program that will only let users into the building 
 # if they enter a specific password. They given you the following information to use to build this program.
+ 
 # - they want users to be able to enter a series of codes to get access
 # - they want the user to enter an initial password value which is 0001
 # - if they get this correct, they then want them to enter another value, which is 3039
