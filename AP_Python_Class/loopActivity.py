@@ -23,5 +23,9 @@ while i # insert missing code.
 
 names= ['Avery','Paige','William','Ade','Jasmyn','Crystal']
 
+
+# 5. Create a loop that will ask the user to add a new string value to the list of names above.
+# hint you will need use append().
+
 # BONUS QUESTION
 # Describe the differences between a FOR loop and WHILE loop. 
