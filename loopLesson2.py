@@ -3,30 +3,12 @@
 
 # how do we write a while loop:
 
-while 'example' == True:
-  "run this code"   
+# while loop = a keyword that allows us to 
+# repeat a block of code indefinitely/ continuously/ 
+# infinitely.
 
-def exampleFunction():
-  # how the codes
-  # instruction 1
+i= 0
+while i < 10:
+  print('hello')
+  i+=1
 
-def print():
-  # when user enters values
-  # instruction. 
-  
-exampleFunction()
-print()
-
-int()
-
-var= input()
-
-if 0 > 1:
-  
-elif 0 == 1:
-  
-else 0 < 1:
-
-while 'this' == 'this ':
-
-for 'this' in 'that ':
