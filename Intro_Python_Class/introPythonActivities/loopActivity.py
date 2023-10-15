@@ -3,9 +3,9 @@
 # until it gets to the number 10.
 
 # hint: remember there are 3 parts to a loop. 
-i=0
-while i # insert missing code.
-    print('insert missing value')
+#i=0
+#while i # insert missing code.
+#    print('insert missing value')
     # insert missing code here
 
 # 2. Create a simple while loop that will iterate over a the following condition:
@@ -14,6 +14,15 @@ while i # insert missing code.
 # the can win a prize. 
 # If the user puts in an incorrect secret number, the loop will ask them to enter the 
 # correct secret number. 
+
+user_number= input('what is the code: ')
+
+while user_number != '3':
+    print(' not correct! please enter the correct password.')
+    user_number= input('what is the code: ')
+   
+print('correct! Here is your prize.')
+
 
 # 3. describe the difference between a while loop and a conditional statement. 
 # Try be as specific as you can
