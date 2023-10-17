@@ -4,7 +4,7 @@ Do some research and find a piece of software that is built with Python.
 The software can be a video game, a website, application, or new technology. Once you've found
 a program that was built with Python, conduct research create a report on what the software is,
 what it does, how the software was built, and most importantly how Python was used. 
-Your report should be atleast 700 words long. You will also need to provide
+Your report should be atleast 400 words long. You will also need to provide
 citations for where you got your information - you may reference vidoes, 
 blogposts, websites, and articles. Please use MLA citation style.
 Your report will need atleast three (3) citations. 
