@@ -1,40 +1,12 @@
-# Create a loop that will act as a sensor for a lighting system.
-# If there are objects in the lights view; turn the light on, Otherwise
-# the light should always be off in the loop. 
 
-# Bonus: Right a condition for when it 
-# reaches a certain number the lights automatically switch to on. This number should
-# represent time.  
+# Create a security camera program that uses a while loop to detect if there is an
+# object in site. 
 
-# 3. Outdoor Light While Loop
+# Create a Printer Loop program that will continue to print copies of a document based on the number
+# that the user inputs. 
 
-# While Loop - a function that will 
-# run set of code instructions(statements),
-# While the condition is true, indefinitely.  
+# Create a Stop Light Loop that will change the light color based on different time intervals. 
+# every 30 seconds the light should change between green and red. 
 
-# Write a loop that will work for these three scenarios
-
-# Passcode Loop- write a program that will check 
-# if a passcode is correct. While the passcode is not correct; 
-# Ask the user to try again. User gets 4 attempts. 
-
-def passcode_attempt_logic():
-    passcode = 1234
-    passcodeAttempt_Count= 0 
-
-    while passcodeAttempt_Count < 4:
-        passcode_Attempt = int(input('please enter the passcode: '))
-        if passcode_Attempt != passcode: 
-            print('Incorrect passcode. Try again. ')
-        else: 
-            print("correct! you may enter! ")
-            break
-        passcodeAttempt_Count +=1
-
-passcode_attempt_logic()
-
-# Printer Loop
-
-
-# Stop Light Loop 
-
+# BONUS: add an additional condition that will change the light to yellow for 5 seconds before the
+# next light change. 
