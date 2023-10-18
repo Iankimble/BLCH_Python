@@ -10,7 +10,7 @@ please use the following link:
 
 
 
-# File/ Folder naming and Structure
+# File and Folder naming and Structure
 Please make sure your are following the prescribed naming for your documents as well
 as make sure your folders are organized. If your document does not have the right name, I cannot grade it. If your work isn't in the right folders I can not grade it.
 
