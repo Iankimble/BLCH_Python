@@ -1,6 +1,5 @@
 # Create while loops for the following conditions
 
-
 # 1. Create a security camera program that uses a while loop to detect if there is an
 # object in site. 
 
