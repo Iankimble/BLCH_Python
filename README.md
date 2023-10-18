@@ -5,7 +5,7 @@
 Office hours will be from 3:15p-4p every wednesday. 
 please use the following link:
 
-[Link text](https://us06web.zoom.us/j/84894757579?pwd=1iNeGCMiEh1rhAQqv4hbR3Ig1tvQOO.1)
+#[Office Hours](https://us06web.zoom.us/j/84894757579?pwd=1iNeGCMiEh1rhAQqv4hbR3Ig1tvQOO.1)
 
 
 
