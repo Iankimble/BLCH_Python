@@ -17,5 +17,3 @@
 # Then write down and describe it.  
 # This does not need to be a code example.
 
-# 3. BONUS: add an additional condition that will change the light to yellow for 5 seconds before the
-# next light change. 
