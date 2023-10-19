@@ -9,5 +9,13 @@
 # 3. Create a Stop Light Loop that will change the light color based on different time intervals. 
 # every 30 seconds the light should change between green and red. 
 
+# 4. Think of a scenario where you would use a while loop and the break keyword. 
+# Then write down and describe it.  
+# This does not need to be a code example.
+
+# 5. Think of a  scenario where you would use a while loop and a Create a while and the continue keyword.
+# Then write down and describe it.  
+# This does not need to be a code example.
+
 # 3. BONUS: add an additional condition that will change the light to yellow for 5 seconds before the
 # next light change. 
