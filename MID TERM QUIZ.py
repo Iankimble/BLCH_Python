@@ -5,21 +5,24 @@
 
 # I. You may use google/ W3 schools to assist you with this exam
 
-# II. You may use notes in your reposiory
+# II. Please make sure your answers/ responses are readable. You can write your written answers as comments or strings but 
+# make sure that you are spacing your answers away from the questions. 
 
-# III. You may not use any additional computing devices 
+# III. You may use notes in your reposiory
+
+# IV. You may not use any additional computing devices 
 # (only one computer should be out).
 
-# IV. You may not use your phone during the quiz under any circumstances.
+# V. You may not use your phone during the quiz under any circumstances.
 # If it is an emergency please request to be excused from the class. 
 
-# V. You may not have music or videos playing during the quiz
+# VI. You may not have music or videos playing during the quiz
 # under any circumstances. 
 
-# VI. You may not use any LLM / AI applications under any circumstances. 
+# VII. You may not use any LLM / AI applications under any circumstances. 
 # Any one caught using  these applications will automatically fail the quiz.
 
-# VII. Save your work under the QUIZES folder
+# VIII. Save your work under the QUIZES folder
 
 # _____________________________________________________________________
 
