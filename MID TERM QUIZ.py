@@ -19,10 +19,14 @@
 # VI. You may not use any LLM / AI applications under any circumstances. 
 # Any one caught using  these applications will automatically fail the quiz.
 
+# VII. Save your work under the QUIZES folder
+
 # _____________________________________________________________________
 
 
 # Take your time, read the questions thoroughly, look for context clues
+
+# The Code editor is your friend, run/ test your code. The computer will tell you if it's right or wrong.
 
 # GOOD LUCK
 
