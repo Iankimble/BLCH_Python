@@ -1,3 +1,35 @@
+# MID TERM QUIZ 
+
+
+# RULES
+
+# I. You may use google/ W3 schools to assist you with this exam
+
+# II. You may use notes in your reposiory
+
+# III. You may not use any additional computing devices 
+# (only one computer should be out).
+
+# IV. You may not use your phone during the quiz under any circumstances.
+# If it is an emergency please request to be excused from the class. 
+
+# V. You may not have music or videos playing during the quiz
+# under any circumstances. 
+
+# VI. You may not use any LLM / AI applications under any circumstances. 
+# Any one caught using  these applications will automatically fail the quiz.
+
+# _____________________________________________________________________
+
+
+# Take your time, read the questions thoroughly, look for context clues
+
+# GOOD LUCK
+
+# _____________________________________________________________________
+
+
+
 # 1. Describe what a computer program is and what does it do. 
 
 # 2. Describe what complexitity and abstraction are, then provide an example
