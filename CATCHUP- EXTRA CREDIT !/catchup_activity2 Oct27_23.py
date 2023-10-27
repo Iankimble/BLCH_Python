@@ -39,7 +39,6 @@ students=[john, jennie, april,may, robert]
 # 7. Create a program that uses a combination of at least three (3) concepts 
 # we've learned about in class.
 
-# 8. Create a program that uses a4
 
 
 
