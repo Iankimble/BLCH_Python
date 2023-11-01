@@ -1,4 +1,4 @@
-$Ian's Project Program
+Ian's Project Program
 ========
 
 Team
@@ -7,7 +7,7 @@ ian kimble - github.com/iankimble
 
 Description
 --------
-$This program was developed to solve this particular issue.
+This program was developed to solve this particular issue.
 
 Features
 --------
