@@ -1,8 +1,8 @@
 You’ve recently applied to Cesium for a software engineer role and you have made it to the technical round of the interview. They ask you to develop a program using their software.
-Take what you’ve read and learned about Cesium and documentation and come up with an idea for a program that uses their library. Then write a documentation about your proposed program.
+Take what you’ve read and learned about Cesium and documentation and come up with an idea for a program that uses their library. Then write documentation about your proposed program.
 You do not need to code a program for this assignment- You need to write an example of good documentation.
 
-### Your documentation should include the following: ###
+### Your documentation should be include the following: ###
 
 - Name of project
 - Team/ Engineer name and github link
