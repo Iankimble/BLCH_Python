@@ -3,7 +3,8 @@
 ### Part 1
 Create a simple program using the tools we've learned about it class. Your program should contain the following:
 
-- Save your new program file as <b>name_gitCloneFunction.Py</b> 
+- create a new folder called cloneAssignment
+- inside of your new folder create a new program file called <b>name_gitCloneFunction.Py</b> 
 ex. ian_gitCloneFunction.py
 
 - Your program must be a function
