@@ -21,13 +21,15 @@ In codespaces, create a new codespace repository. Use the blank template for you
 copy your program code and README.md document into your new repo.
 
 <b> Your new repository should be structured as followed: </b>
-- new reposiory called "yourname_cloneRepo"
+- new reposiory called "yourname_cloneRepo", 
 - a new folder called sourcecCode
 - inside the new sourceCode folder, have a new file called name_gitCloneFunction.Py
 - inside the new sourceCode folder, have a new file called README.Md
 
 Once you've copied and pasted your assignment, use the source control
-button to publish your work to Github. 
+button to publish your work to Github.
+
+MAKE SURE YOU ARE PUBLISHING YOUR WORK AS PUBLIC.
 
 Name your new repo called yourname_cloneRepoAssignment
 
