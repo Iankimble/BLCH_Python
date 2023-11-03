@@ -12,14 +12,27 @@ ex. ian_gitCloneFunction.py
 - Your program must perform some type of action on the data (can loop, check a condition, etc.)
 - Your program must output a result.
 
-Once finished, write a brief read.me document, describing you program and exaplaining to another user what your program
+Once finished, write a brief README.me document, describing you program and exaplaining to another user what your program
 does and how to install it. Next, commit and push your work to your repository.
-
-Finally, find a classmate that has also completed these steps. You will now need to visit that
-students repository, find their program and clone the program onto your repository. 
-follow their steps and test and check if they're program works.
-
 ### Part 2
+
+CREATE A NEW REPOSITORY
+In codespaces, create a new codespace repository. Use the blank template for your new repo, then
+copy your program code and README.md document into your new repo.
+
+<b> Your new repository should be structured as followed: </b>
+- new reposiory called "yourname_cloneRepo"
+- a new folder called sourcecCode
+- inside the new sourceCode folder, have a new file called name_gitCloneFunction.Py
+- inside the new sourceCode folder, have a new file called README.Md
+
+Once you've copied and pasted your assignment, use the source control
+button to publish your work to Github. 
+
+Name your new repo called yourname_cloneRepoAssignment
+
+## Part 3
+Find another classmate to clone their repo. 
 
 Create a new document, called <b>classFunctionReview.txt</b>
 You will review your classmates code by answer the following questions:
