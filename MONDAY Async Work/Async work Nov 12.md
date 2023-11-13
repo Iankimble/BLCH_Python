@@ -1,8 +1,7 @@
 # Program Design Activity
+Monday Async work November 13,2023. 
 
 ## INSTRUCTIONS
-
-**Part 1**
 Watch the following video below. Once you have finished watching the video, create a new 
 markdown (.md) file called **programDesignDoc.md** and answer the following questions.
 
@@ -13,11 +12,13 @@ https://www.youtube.com/watch?v=fxJWin195kU&t=5s
 [![Image alt text](https://i.ytimg.com/vi/fxJWin195kU/maxresdefault.jpg)](https://www.youtube.com/watch?v=fxJWin195kU&t=5s)
 
 ## QUESTIONS
-1. What probblem is your program trying to solve?
-2. How will your program solve this problem?
-3. Are there any apps that similar to your program?
-4. Create three (3) types of users that will use your program?
-5. Develop a wireframe that showcases how a user will navigate through your program. 
+1. breifly describe what your program is about?
+2. What probblem is your program trying to solve?
+3. How will your program solve this problem?
+4. Are there any apps that similar to your program?
+5. Who is this program designed for? Please describe the user who will be
+useing the program by describing three(3) things about them and how it relates to them 
+using the program. 
 
 **YOU MUST WRITE AND FORMAT YOUR ACTIVITY USING MARKDOWN AND SAVE IT AS A MARKDOWN DOCUMENT**
 Below is an example of how your document should look. You should have at least 3-5 sentences per question. Please be descriptive, clear and concise with your responses.
