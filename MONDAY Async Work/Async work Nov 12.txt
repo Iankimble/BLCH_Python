@@ -1,0 +1,13 @@
+Program Design
+- Read the following article on UX and UI design
+
+p
+
+
+
+1. What probblem is your program trying to solve?
+2. How will your program solve this problem?
+3. Are there any apps that similar to your program?
+4. Create three (3) types of users that will use your program?
+5. Develop a wireframe that showcases how a user will navigate through your program. 
+
