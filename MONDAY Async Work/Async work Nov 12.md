@@ -2,7 +2,7 @@
 
 ## INSTRUCTIONS
 Watch the following video below. Once you have finished watching the video, create a new 
-markdown (.md) file called programDesignDoc.md and answer the following questions.
+markdown (.md) file called **programDesignDoc.md** and answer the following questions.
 
 ## VIDEO
 The Engineering Process.
@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=fxJWin195kU&t=5s
 4. Create three (3) types of users that will use your program?
 5. Develop a wireframe that showcases how a user will navigate through your program. 
 
+YOU MUST WRITE YOUR RESPONSE AS A MARKDOWN DOCUMENT AND USE THE MARKDOWN SYMBOLS TO 
+FORMAT YOUR RESPONSES. 
+
+(___) 
