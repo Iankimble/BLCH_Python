@@ -1,9 +1,10 @@
 Program Design
 - Read the following article on UX and UI design
 
-p
+- Answer the following questions
 
-
+- use markdown!
+- Save and submit your work as designGuide.md
 
 1. What probblem is your program trying to solve?
 2. How will your program solve this problem?
