@@ -25,18 +25,23 @@ _____________________________________________________________________
 
 ## Ian's Program Design Doc
 1. breifly describe what your program is about?
+
 My program is called autobot express and it is designed to...
 
 2. What probblem is your program trying to solve?
+
 There are several problems my program aims to solve... 
 
 3. How will your program solve this problem?
+
 Autobot express will solve the problems listed above in several ways...
 
 4. Are there any apps/programs that similar to your program? (be descriptive)
+
 There are several programs that inspired my program... they are.. 
 
 5. Who is this program designed for? Please describe the user who will be
 useing the program by describing three(3) things about them and how it relates to them 
 using the program. 
+
 The general user for this program are students who...(be descriptive)
