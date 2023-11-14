@@ -27,5 +27,5 @@ If you don't know how, do some research to figure out how to upload a picture.
 
 [How to create a wireframe](https://balsamiq.com/learn/articles/mobile-app-wireframing-guide/)
 
-[Wireframe class slides](https://docs.google.com/presentation/d/1_135RwxXnw2J8A9oIMzhGA1Goas491wAGrH4WN2iCHQ/edit?usp=sharing)
+[wireframe class slides](https://docs.google.com/presentation/d1_135RwxXnw2J8A9oIMzhGA1Goas491wAGrH4WN2iCHQ/edit?usp=sharing)
 
