@@ -16,10 +16,16 @@ whatever you elect to design, you can do it with Python.
 4. What is your project MVP (minimum viable product)? What is the most basic peices of code
 you need to write to get your projected started and working?
 
+
+**Extra Credit**
 # Design
 Imagine your program is running on a mobile phone, develop a wireframe of what it will 
 look like when it is running.
 
+You can draw these out with pen and paper, take a picture, and attach it to this markdown document. 
+If you don't know how, do some research to figure out how to upload a picture. 
+
 [How to create a wireframe](https://balsamiq.com/learn/articles/mobile-app-wireframing-guide/)
 
+[Wireframe class slides](https://docs.google.com/presentation/d/1_135RwxXnw2J8A9oIMzhGA1Goas491wAGrH4WN2iCHQ/edit?usp=sharing)
 
