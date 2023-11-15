@@ -8,6 +8,11 @@ ex. iank_projectPrompt.md
 
 Your file should be formatted as an MD file. Similar to the assignment from yesterday.
 
+# About your project
+You will design and develop your very own orginal program application. Your program should take in a user's input or commands, perform at least three (3) different types of functionality on the user input data, and then out put some type of data. 
+
+(By functionality, it should be able to do any of the things we've learned in class such as loops, conditionals, data casting, etc. )
+
 **DO NOT PUT LIMITS ON YOURSELF OR WHAT YOU CAN DEVELOP**
 whatever you elect to design, you can do it with Python.
 
@@ -21,10 +26,7 @@ whatever you elect to design, you can do it with Python.
 
 4. What is your project MVP (minimum viable product)? What is the most basic peices of code
 you need to write to get your projected started and working?
-
-
-
-
+  
 **Extra Credit**
 # Design
 Imagine your program is running on a mobile phone, develop a wireframe of what it will 
