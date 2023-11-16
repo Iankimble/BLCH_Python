@@ -26,7 +26,7 @@ whatever you elect to design, you can do it with Python.
 
 4. What is your project MVP (minimum viable product)? What is the most basic peices of code
 you need to write to get your projected started and working?
-  
+   
 **Extra Credit**
 # Design
 Imagine your program is running on a mobile phone, develop a wireframe of what it will 
