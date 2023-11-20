@@ -1,17 +1,13 @@
 # AP/ Intro Python Coding Standard
-
-
+ 
 # Office Hours
 Office hours will be from 4:p-4:45p every wednesday. 
 please use the following link:
 
 [Office Hours](https://us06web.zoom.us/j/84894757579?pwd=1iNeGCMiEh1rhAQqv4hbR3Ig1tvQOO.1)
 
-
-
-
 # File and Folder naming and Structure
-Please make sure your are following the prescribed naming for your documents as well
+Please make sure y our are following the prescribed naming for your documents as well
 as make sure your folders are organized. If your document does not have the right name, I cannot grade it. If your work isn't in the right folders I can not grade it.
 
 # Commit Messages
@@ -29,5 +25,3 @@ Steps to submitting code
 4. click sync and push
 
 If you run into a git error, notify me.
-
-
