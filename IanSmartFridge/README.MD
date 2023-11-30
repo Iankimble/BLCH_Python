@@ -16,10 +16,13 @@ This program was developed by Ian Kimble from Black Tech Philly.
 # Project Review
 
 1. <b>What inspired you (or your team) to develop this program?</b>
+
 I was inspired to develop this program by...
 
 2. <b>What was a road block that you had with writing your program? How did you solve your  problem?</b>
+
 there were a few raod blocks that came up during the development of this program. They were...
 
 3. <b>What is somthing you would have liked to have added or done differently?</b>
+
 If I had more time, I would have...
