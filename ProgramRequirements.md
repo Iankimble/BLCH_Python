@@ -29,7 +29,7 @@ Your project should have a README document in your project folder. Your README d
 - An About section describing what your program is and what it does. This section
 
 <b>Features</b>
-should be a paragraph(5 to 6 complete sentences).
+should be a paragraph(3 -4 complete sentences).
 - A Key Feature section that describes the key functionalities/ features of your program.
 
 <b>Contributors</b>
@@ -37,7 +37,7 @@ should be a paragraph(5 to 6 complete sentences).
 please provide full names and grade
 
 <b>Team review</b>
-- This section is dedicated for reflecting on your project by answering the following questions. You must require one full paragraph (5-6 full sentences)for each response. 
+- This section is dedicated for reflecting on your project by answering the following questions. You must require one full paragraph (3-4 full sentences)for each response. 
 
 1. What inspired you (or your team) to develop this program?
 
