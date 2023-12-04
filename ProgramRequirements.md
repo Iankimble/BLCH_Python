@@ -3,7 +3,6 @@ please complete the survey at the link below
 
 [Coding II survey ](https://forms.gle/xqSUiinf5iduw5cW6)
 
-
 # Project Requirements
 You will work independently or as a team to develop your very own program using the concepts we've learned this semester.
 
@@ -42,7 +41,7 @@ should be a paragraph(3 -4 complete sentences).
 - The name of the developer or developers that worked on the program. 
 please provide full names and grade
 
-<b>Team review</b>
+<b>Project review</b>
 - This section is dedicated for reflecting on your project by answering the following questions. You must require one full paragraph (3-4 full sentences)for each response. 
 
 1. What inspired you (or your team) to develop this program?
