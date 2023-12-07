@@ -4,8 +4,6 @@ You will have the option to complete 1 of the 2 assignments for extra credit.
 <h1>Remember to take your time and break down the prompt into smaller pieces.</h>
 <b>USE W3SCHOOLS!!</b>
 
-(___)
-
 # OPTION 1: PYTHON MOVIE GUESSING GAME
 <b>Your assignment is to create a movie guessing game using python. Users will be given clues as to what the movie is.</b>
 
@@ -20,8 +18,6 @@ You will have the option to complete 1 of the 2 assignments for extra credit.
 - You will need to use a Python loop,
 - You will need to use the input function to take in data.
 - You will need to use Python conditional statements. 
-
-(___)
 
 # OPTION 2: ROCK,PAPER, SCISSORS- BEST OF FIVE
 
