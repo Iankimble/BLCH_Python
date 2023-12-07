@@ -40,3 +40,18 @@ You will have the option to complete 1 of the 2 assignments for extra credit.
 - You will need to use Python conditional statements.
 - You will need to use the random() function in Python.  
 
+# Grading criteria and Requirements
+- You need to create a folder called yourName_extra credit
+- You need to name your python file 1 of 3 things:
+extraCredit_rockPaperScissors.py
+extraCredit_movieGussingGame.py 
+extraCredit_DoubleProgram.py (if you decide to do both programs.)
+
+- Your program must be wrapped inside of a function.
+- You must follow the required naming conventions for your folder and python file.
+- You will be graded on whether you used the proper Python formatting and syntax.
+- You will be graded on the clarity and readability of your code. 
+- You will be graded on how efficient your code runs. 
+- You will be graded on your program being able to complete the tasks. 
+
+
