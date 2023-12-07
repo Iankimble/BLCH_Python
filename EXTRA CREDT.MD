@@ -25,7 +25,7 @@ You will have the option to complete 1 of the 2 assignments for extra credit.
 
 # OPTION 2: ROCK,PAPER, SCISSORS- BEST OF FIVE
 
-<b>Your assignment is to develop a rock, paper, scissors game where the user must win three(3) rounds out of five (5) to win the game.<b>
+<b>Your assignment is to develop a rock, paper, scissors game where the user must win three(3) rounds out of five (5) to win the game.</b>
 
 ### Directions and Requirements:
 1. Your program should prompt the user to enter a number value that will represent rock, paper, and scissors. Your program must inform the user of what each number represents
