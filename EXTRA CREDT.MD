@@ -49,6 +49,7 @@ extraCredit_DoubleProgram.py (if you decide to do both programs.)
 
 - Your program must be wrapped inside of a function.
 - You must follow the required naming conventions for your folder and python file.
+- You must follow the program requirements outlined in the extra credit prompt above.
 - You will be graded on whether you used the proper Python formatting and syntax.
 - You will be graded on the clarity and readability of your code. 
 - You will be graded on how efficient your code runs. 
