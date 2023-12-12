@@ -1,7 +1,7 @@
 # Social Media Documentary Prompt
 
 Watch and listen intently to the video and answer the following questions.
-Please write 1 paragraph (3-4 complete sentences). 
+Please write 1 paragraph (3-4 complete sentences) for each question.
 
 1. How important is it for you to have a large social media following and or a lot of likes/views on your social media account?
 
