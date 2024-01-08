@@ -1,9 +1,8 @@
 # Monday Async Work Jan 8th, 2024
 
-## Navigate to the folder we create last week called "last Python Unit" and create a new python file inside of that folder called AsyncWork_Jan8.py.
+- Navigate to the folder we create last week called <b>"last Python Unit"</b> and create a new python file inside of that folder called <b>AsyncWork_Jan8.py</b>.
 
-## Answer the following questions. Your written responses should be written as either a string data type or a comment. You need to write in complete sentences to get full credit.
-
+- Answer the following questions. Your written responses should be written as either a string data type or a comment. You need to write in complete sentences to get full credit.
 
 1. List and explain three 3 reasons why programmers write documentation. 
 
