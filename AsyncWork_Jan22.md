@@ -1,9 +1,15 @@
 Watch the video below. Once your finished, answer the following questions:
 
+# Digital Hygiene
+
 https://www.youtube.com/watch?v=-xVcL00IQA0
 
 [![Digital Hygiene](https://www.cira.ca/uploads/2020/01/young-female-character-cleaning-up-the-desktop-folders-digital-vector-id1132086617.jpg)](https://www.youtube.com/watch?v=-xVcL00IQA0)
 
+ 
+# Privacy Pyramid
+
+https://www.youtube.com/watch?v=O96QXj2X3VA
 
 [![Privacy Pyramdid](https://i.ytimg.com/vi/O96QXj2X3VA/sddefault.jpg)](https://www.youtube.com/watchv=O96QXj2X3VA)
 
